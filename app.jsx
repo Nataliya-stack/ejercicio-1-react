@@ -41,7 +41,7 @@ function App() {
       description: "¿Quién es la más bella del reino? ¿Cómo sobrevive Blancanieves en el bosque? ¿Quiénes son sus siete pequeños amigos y qué secreto esconde la manzana de la reina?",
       content: "Blancanieves es una joven princesa de piel blanca como la nieve. Huyendo de su malvada madrastra, encuentra refugio en una pequeña cabaña en el bosque junto a siete enanitos bondadosos. Sin embargo, la reina descubre su paradero y, disfrazada de anciana, le ofrece una manzana envenenada que sume a la princesa en un sueño profundo, del cual solo despertará con el beso de un amor verdadero.",
       created_at: "20/12/1812",
-      image: "/img/blancanieves.jpg"
+      image: "./img/blancanieves.jpg"
     },
     {
       id: 2,
@@ -57,7 +57,7 @@ function App() {
       description: "¿Podrá una joven huérfana asistir al gran baile del palacio? ¿Qué pasa cuando el reloj marca las doce? ¿Cómo ayudará un zapato de cristal a cambiar su destino?",
       content: "Cenicienta es obligada por su malvada madrastra y hermanastras a trabajar como sirvienta. Con la ayuda de su Hada Madrina, se transforma en una hermosa princesa para asistir al baile real, bajo la condición de regresar antes de la medianoche. Al huir a toda prisa, pierde un zapato de cristal, el cual el príncipe utiliza para buscarla por todo el reino hasta encontrar al verdadero amor de su vida.",
       created_at: "11/01/1697",
-      image: "/img/cinderella.jpg"
+      image: "./img/cinderella.jpg"
     },
     {
       id: 4,
@@ -65,7 +65,7 @@ function App() {
       description: "¿Cómo se pierden dos hermanos en lo profundo del bosque? ¿De qué está hecha la misteriosa casa que encuentran? ¿Cómo lograrán escapar de la malvada bruja?",
       content: "Hansel y Gretel son dos hermanos abandonados en el bosque por sus padres debido a la pobreza. Siguiendo un rastro de migas de pan que desaparece, encuentran una asombrosa casa hecha de dulces y chocolate. Una anciana los invita a entrar, pero resulta ser una bruja que planea engordarlos para comérselos. Usando su ingenio, los niños logran engañar a la bruja, encerrarla en el horno y escapar con sus riquezas.",
       created_at: "20/12/1812",
-      image: "/img/hansel_y_gretel.jpg"
+      image: "./img/hansel_y_gretel.jpg"
     }, 
     {
       id: 5,
@@ -73,7 +73,7 @@ function App() {
       description: "¿Puede el amor verdadero romper una maldición eterna? ¿Por qué Bella decide quedarse en el castillo? ¿Qué misterio esconde la rosa mágica antes de perder su último pétalo?",
       content: "Bella es una joven brillante que se ofrece a ser prisionera en un castillo a cambio de la libertad de su padre. El dueño del lugar es una temible Bestia, un príncipe hechizado por su egoísmo. Con el tiempo, Bella descubre el buen corazón que se esconde tras la apariencia de la Bestia. Al enamorarse de él, rompe el poderoso hechizo justo a tiempo, devolviéndole su forma humana.",
       created_at: "01/01/1756",
-      image: "/img/la_bella.jpg"
+      image: "./img/la_bella.jpg"
     }, 
     {
       id: 6,
@@ -81,7 +81,7 @@ function App() {
       description: "¿Qué está dispuesta a sacrificar una joven sirena por vivir en el mundo humano? ¿Qué trato oculta la bruja del mar? ¿Logrará conquistar el corazón del príncipe?",
       content: "Ariel es una joven sirena fascinada por el mundo de los humanos. Tras salvar a un príncipe de un naufragio, se enamora perdidamente de él. Desesperada por tener piernas, hace un pacto con Úrsula, la bruja del mar: entrega su hermosa voz a cambio de convertirse en humana. Ahora, tiene solo tres días para conseguir que el príncipe se enamore de ella sin poder emitir una sola palabra.",
       created_at: "07/04/1837",
-      image: "/img/la_sirenita.jpg"
+      image: "./img/la_sirenita.jpg"
     } 
   ];
   
